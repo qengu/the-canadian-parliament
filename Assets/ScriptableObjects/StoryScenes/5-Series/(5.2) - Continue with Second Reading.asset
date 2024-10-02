@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e16b6f87e1b2d94596bf41cc93b1301, type: 3}
+  m_Name: (5.2) - Continue with Second Reading
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: Fair enough, but what about implementing a sleep limit and investing in
+      caffeine businesses? You do realise the Canadian government is in debt.
+    character: {fileID: 11400000, guid: 71eabdf784338474aa50f8576e741f4d, type: 2}
+    iconIndex: 1
+    italics: 0
+  - text: I agree that implementing a sleep limit would require a lot of resources
+      to make sure Canadians are obeying the law, and the increase in caffeine production
+      would cost a lot as well.
+    character: {fileID: 11400000, guid: 8139b77ffcc57b143916e913462aa9ea, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: "However, this cost can be covered in the future by investing\u2026"
+    character: {fileID: 11400000, guid: 8139b77ffcc57b143916e913462aa9ea, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: There is no way profit from investing in caffeine businesses can make back
+      all that money.
+    character: {fileID: 11400000, guid: 71eabdf784338474aa50f8576e741f4d, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: Heh heh heh
+    character: {fileID: 11400000, guid: 8139b77ffcc57b143916e913462aa9ea, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: What?
+    character: {fileID: 11400000, guid: 71eabdf784338474aa50f8576e741f4d, type: 2}
+    iconIndex: 1
+    italics: 0
+  - text: HaHAHAHAHAHA!
+    character: {fileID: 11400000, guid: 8139b77ffcc57b143916e913462aa9ea, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: Order.
+    character: {fileID: 11400000, guid: 0829268a21adbf44abb6a024b186905b, type: 2}
+    iconIndex: 1
+    italics: 0
+  - text: HAHAhahaha
+    character: {fileID: 11400000, guid: 8139b77ffcc57b143916e913462aa9ea, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: Order! This is your last warning.
+    character: {fileID: 11400000, guid: 0829268a21adbf44abb6a024b186905b, type: 2}
+    iconIndex: 1
+    italics: 0
+  - text: Sorry, your honour. But I was laughing as the Leader of the Opposition
+      Party foolishly fell into my trap.
+    character: {fileID: 11400000, guid: 8139b77ffcc57b143916e913462aa9ea, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: What? How?
+    character: {fileID: 11400000, guid: 71eabdf784338474aa50f8576e741f4d, type: 2}
+    iconIndex: 2
+    italics: 0
+  - text: You see, I have not finished my sentence yet. You interrupted me at investing.
+      Did you really think we would only be investing in caffeine businesses?
+    character: {fileID: 11400000, guid: 8139b77ffcc57b143916e913462aa9ea, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: What else are we investing in then?
+    character: {fileID: 11400000, guid: 71eabdf784338474aa50f8576e741f4d, type: 2}
+    iconIndex: 2
+    italics: 0
+  - text: Is your brain really smoother than an ice ring? We are investing in the
+      Canadian people.
+    character: {fileID: 11400000, guid: 8139b77ffcc57b143916e913462aa9ea, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: By not sleeping, Canadians will be able to utilise their lives much more
+      efficiently. As a result, every Canadian will become like Bill Gates.
+    character: {fileID: 11400000, guid: 8139b77ffcc57b143916e913462aa9ea, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: Pulls out a calculator
+    character: {fileID: 11400000, guid: 8139b77ffcc57b143916e913462aa9ea, type: 2}
+    iconIndex: 0
+    italics: 1
+  - text: "There are 32.85 million Canadians, and Bill Gate\u2019s networth is around
+      135 billion CAD."
+    character: {fileID: 11400000, guid: 8139b77ffcc57b143916e913462aa9ea, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: Types numbers into the calculator
+    character: {fileID: 11400000, guid: 8139b77ffcc57b143916e913462aa9ea, type: 2}
+    iconIndex: 0
+    italics: 1
+  - text: "So that would be\u2026"
+    character: {fileID: 11400000, guid: 8139b77ffcc57b143916e913462aa9ea, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: Shows number on calculator
+    character: {fileID: 11400000, guid: 8139b77ffcc57b143916e913462aa9ea, type: 2}
+    iconIndex: 0
+    italics: 1
+  - text: We would be making...
+    character: {fileID: 11400000, guid: 8139b77ffcc57b143916e913462aa9ea, type: 2}
+    iconIndex: 0
+    italics: 1
+  background: {fileID: 21300000, guid: c8578087220fd8e4e943a7e3e11779e1, type: 3}
+  nextScene: {fileID: 11400000, guid: 907488c15313c5b42815da7406573082, type: 2}

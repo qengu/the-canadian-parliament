@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e16b6f87e1b2d94596bf41cc93b1301, type: 3}
+  m_Name: (8.3) Part 4 Senate
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: Congratulations, I was just informed Bill C-04 was approved by the senate
+      without amendments
+    character: {fileID: 11400000, guid: 5caeea42f5d220c4f8181d072ac91540, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: "Let\u2019s go. This must mean Bill C-04 is going to be a huge success!"
+    character: {fileID: 11400000, guid: 8139b77ffcc57b143916e913462aa9ea, type: 2}
+    iconIndex: 0
+    italics: 0
+  background: {fileID: 21300000, guid: 414cc6329e1d0bb4c94b08a4df976318, type: 3}
+  nextScene: {fileID: 11400000, guid: d20acfca40b57b14fbe63d8a10490c55, type: 2}

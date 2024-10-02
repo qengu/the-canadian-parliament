@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e16b6f87e1b2d94596bf41cc93b1301, type: 3}
+  m_Name: (4.0) - First Reading of the bill
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: '*I can relax a bit as the first reading is mostly for tradition. It does
+      not really effect the legislative process'
+    character: {fileID: 11400000, guid: 8139b77ffcc57b143916e913462aa9ea, type: 2}
+    iconIndex: 0
+    italics: 1
+  - text: Introduction of government bills. The honourable Minister of Public Health
+    character: {fileID: 11400000, guid: 0829268a21adbf44abb6a024b186905b, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: '*I knod at the speaker with approval*'
+    character: {fileID: 11400000, guid: 8139b77ffcc57b143916e913462aa9ea, type: 2}
+    iconIndex: 0
+    italics: 1
+  - text: The honourable Minister of Public Health moves for leave to introduce a
+      bill entitled The Canadian Time Machine. Is it the pleasure of the House to
+      adopt this motion?
+    character: {fileID: 11400000, guid: 0829268a21adbf44abb6a024b186905b, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: Many people around the house agreed
+    character: {fileID: 11400000, guid: 0829268a21adbf44abb6a024b186905b, type: 2}
+    iconIndex: 0
+    italics: 1
+  - text: I declare this motion carried
+    character: {fileID: 11400000, guid: 0829268a21adbf44abb6a024b186905b, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: First reading of this bill
+    character: {fileID: 11400000, guid: c03569d7610f47c4da9b2a713d91fbae, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: When shall the bill be read a second time? At the next sitting of the house?
+    character: {fileID: 11400000, guid: 0829268a21adbf44abb6a024b186905b, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: Everyone around the house nods
+    character: {fileID: 11400000, guid: 0829268a21adbf44abb6a024b186905b, type: 2}
+    iconIndex: 0
+    italics: 1
+  background: {fileID: 21300000, guid: c8578087220fd8e4e943a7e3e11779e1, type: 3}
+  nextScene: {fileID: 0}

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e16b6f87e1b2d94596bf41cc93b1301, type: 3}
+  m_Name: (1.1) - Prime Minister appoints you as Cabinet
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: So, what is this important matter that you would like to discuss with me?
+    character: {fileID: 11400000, guid: 86a1a624a83bc7944aa4284e4f70ab2b, type: 2}
+    iconIndex: 2
+    italics: 0
+  - text: I wanna become a Cabinet minister of public health.
+    character: {fileID: 11400000, guid: 8139b77ffcc57b143916e913462aa9ea, type: 2}
+    iconIndex: -1
+    italics: 0
+  - text: Why, MP >? I need reasons
+    character: {fileID: 11400000, guid: 86a1a624a83bc7944aa4284e4f70ab2b, type: 2}
+    iconIndex: 1
+    italics: 0
+  - text: I invested in your carrot growing business ten years ago, and, I'm a minority
+      representing prince edward island
+    character: {fileID: 11400000, guid: 8139b77ffcc57b143916e913462aa9ea, type: 2}
+    iconIndex: -1
+    italics: 0
+  - text: Fair enough, you are definitely qualified. I will appoint you Minister
+      of Public Health
+    character: {fileID: 11400000, guid: 86a1a624a83bc7944aa4284e4f70ab2b, type: 2}
+    iconIndex: 2
+    italics: 0
+  background: {fileID: 21300000, guid: 230406f09ef87514eabe26b3e47df251, type: 3}
+  nextScene: {fileID: 0}

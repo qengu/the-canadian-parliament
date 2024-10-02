@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e16b6f87e1b2d94596bf41cc93b1301, type: 3}
+  m_Name: (3.1) - Bill gets signed
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: Good news, the bill is successfully translated and written into legal language
+    character: {fileID: 11400000, guid: 5caeea42f5d220c4f8181d072ac91540, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: Finally
+    character: {fileID: 11400000, guid: 8139b77ffcc57b143916e913462aa9ea, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: Also, the bill has been assigned the number C-4
+    character: {fileID: 11400000, guid: 5caeea42f5d220c4f8181d072ac91540, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: "This is a lucky number. I\u2019m feeling it with this one. I will get
+      this bill passed into law for sure!"
+    character: {fileID: 11400000, guid: 8139b77ffcc57b143916e913462aa9ea, type: 2}
+    iconIndex: 0
+    italics: 0
+  background: {fileID: 21300000, guid: ef16604ada88e0543830b7bc7cdd9763, type: 3}
+  nextScene: {fileID: 0}

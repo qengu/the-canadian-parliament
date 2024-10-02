@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2fd2f821086aa44c8bf4b203abd4145, type: 3}
+  m_Name: (2.05) Choose - Defend Your BIll
+  m_EditorClassIdentifier: 
+  labels:
+  - text: The Charter of Rights can be amended in times of need. There is an epidemic
+      in our nation. And it is called wasting time. We MUST regrettably bypass certain
+      areas of the Charter of Rights to face this calamity
+    nextScene: {fileID: 11400000, guid: 8a5b36cdd42b29a43906994302833a44, type: 2}
+  - text: Damn, you are correct. I think we should search for another solution
+    nextScene: {fileID: 11400000, guid: 4fd4bf217a7acb24b8239e4497098be3, type: 2}

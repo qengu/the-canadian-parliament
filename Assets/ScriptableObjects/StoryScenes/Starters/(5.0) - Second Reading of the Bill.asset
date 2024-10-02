@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e16b6f87e1b2d94596bf41cc93b1301, type: 3}
+  m_Name: (5.0) - Second Reading of the Bill
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: '*This is the most important reading. I need to convince everyone the fundamental
+      idea behind this bill is correct*'
+    character: {fileID: 11400000, guid: 8139b77ffcc57b143916e913462aa9ea, type: 2}
+    iconIndex: 0
+    italics: 1
+  - text: Government Orders
+    character: {fileID: 11400000, guid: 0829268a21adbf44abb6a024b186905b, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: Second reading of Bill C-4
+    character: {fileID: 11400000, guid: c03569d7610f47c4da9b2a713d91fbae, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: "The honourable Minister of Public Health\u2026"
+    character: {fileID: 11400000, guid: 0829268a21adbf44abb6a024b186905b, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: I nod at the speaker
+    character: {fileID: 11400000, guid: 0829268a21adbf44abb6a024b186905b, type: 2}
+    iconIndex: 0
+    italics: 1
+  - text: ...moves that Bill C-04, an act to implement The Canadian Time Machine,
+      be now read a second time. The Honourable Minister of Public Health
+    character: {fileID: 11400000, guid: 0829268a21adbf44abb6a024b186905b, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: 'Thank you Mr. Speaker. Bill C-4, an Act to implement The Canadian Time
+      Machine: Set a maximum sleeping limit of 2 hours a day, Mass produce coffee
+      and caffeine '
+    character: {fileID: 11400000, guid: 8139b77ffcc57b143916e913462aa9ea, type: 2}
+    iconIndex: -2
+    italics: 0
+  - text: and increase the cost of sleeping products such as beds. This is in order
+      to solve the recent epidemic of laziness and time wasting from Canadians
+    character: {fileID: 11400000, guid: 8139b77ffcc57b143916e913462aa9ea, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: The honourable leader of the official opposition
+    character: {fileID: 11400000, guid: 0829268a21adbf44abb6a024b186905b, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: Mr speaker, I must speak against Bill C-04 as this legislation will be
+      detrimental to Canada for two reasons.
+    character: {fileID: 11400000, guid: 71eabdf784338474aa50f8576e741f4d, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: The First one being the significant cost of implementing a sleep limit,
+      placing a price floor on sleep products, and investing in caffeine related
+      products.
+    character: {fileID: 11400000, guid: 71eabdf784338474aa50f8576e741f4d, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: The second reason is we fear the significant consequences sleep deprivation
+      will cause, such as organ failure and lack of attention.
+    character: {fileID: 11400000, guid: 71eabdf784338474aa50f8576e741f4d, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: The Minister of Public Health.
+    character: {fileID: 11400000, guid: 0829268a21adbf44abb6a024b186905b, type: 2}
+    iconIndex: 0
+    italics: 0
+  background: {fileID: 21300000, guid: c8578087220fd8e4e943a7e3e11779e1, type: 3}
+  nextScene: {fileID: 11400000, guid: 1b5cc777a9a5c0543a328cc461df5e9e, type: 2}

@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e16b6f87e1b2d94596bf41cc93b1301, type: 3}
+  m_Name: (5.4) - Second Reading Continued
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: "Damn, I\u2019m kinda stumped. But what about my second point about the
+      consequences of sleep deprivation?"
+    character: {fileID: 11400000, guid: 71eabdf784338474aa50f8576e741f4d, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: Well, you see. According to neuroscientists, the brain is very plastic,
+      meaning it can adapt. Theoretically, this would mean our brains would get used
+      to it.
+    character: {fileID: 11400000, guid: 8139b77ffcc57b143916e913462aa9ea, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: "What happens if there's people that don\u2019t adapt well?"
+    character: {fileID: 11400000, guid: 71eabdf784338474aa50f8576e741f4d, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: We will obviously have researchers developing medicine and other procedures
+      to help the brain adapt to not sleeping. With the improved efficiency from
+      not sleeping, these scientists will develop a miraculous method in no time.
+    character: {fileID: 11400000, guid: 8139b77ffcc57b143916e913462aa9ea, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: "No way\u2026 Who am I arguing against? How can a bill be filled with such
+      wisdom?"
+    character: {fileID: 11400000, guid: 71eabdf784338474aa50f8576e741f4d, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: Are there any other points from the opposition
+    character: {fileID: 11400000, guid: 0829268a21adbf44abb6a024b186905b, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: ' An MP raises their hands. '
+    character: {fileID: 11400000, guid: 0829268a21adbf44abb6a024b186905b, type: 2}
+    iconIndex: 0
+    italics: 1
+  - text: The Member for Abbotsford
+    character: {fileID: 11400000, guid: 0829268a21adbf44abb6a024b186905b, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: Mr. Speaker, I rise to oppose Bill C-4. There is a major health concern
+      as sleep deprivation causes weight gain. I fear this would lead to an increase
+      in heart attacks amongst Canadians if this Bill passes.
+    character: {fileID: 11400000, guid: 6eed9cdf177b83442904e63725db1c9d, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: Before you could respond, an MP of your party raises their hand to talk
+    character: {fileID: 11400000, guid: 8139b77ffcc57b143916e913462aa9ea, type: 2}
+    iconIndex: 0
+    italics: 1
+  - text: Silence
+    character: {fileID: 11400000, guid: 8139b77ffcc57b143916e913462aa9ea, type: 2}
+    iconIndex: 0
+    italics: 1
+  - text: Is the house ready for the question?
+    character: {fileID: 11400000, guid: 0829268a21adbf44abb6a024b186905b, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: The member fo Carleton has moved that Bill C-4 be amended. Is it the pleasure
+      of the House to adopt this amendment?
+    character: {fileID: 11400000, guid: 0829268a21adbf44abb6a024b186905b, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: Many of the MPs nodded in agreement
+    character: {fileID: 11400000, guid: 8139b77ffcc57b143916e913462aa9ea, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: All those in favour of the motion will please say yea. All opposed will
+      please say nay.
+    character: {fileID: 11400000, guid: 0829268a21adbf44abb6a024b186905b, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: A mix of yay's and nay's echoed through the house
+    character: {fileID: 11400000, guid: 0829268a21adbf44abb6a024b186905b, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: In my opinion, the yeas have it.
+    character: {fileID: 11400000, guid: 0829268a21adbf44abb6a024b186905b, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: Some more less significant debates occurred between MPs until nobody wished
+      to speak.
+    character: {fileID: 11400000, guid: 8139b77ffcc57b143916e913462aa9ea, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: It has been moved by the Minister of Public Health that Bill C-04, an Act
+      to implement The Canadian Time Machine Act be read a second time and be referred
+      to a standing committee.
+    character: {fileID: 11400000, guid: 0829268a21adbf44abb6a024b186905b, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: There was a mix of agreers and disagreers.
+    character: {fileID: 11400000, guid: 0829268a21adbf44abb6a024b186905b, type: 2}
+    iconIndex: 0
+    italics: 1
+  - text: All those in favour of the motion will please say yea.  You and most others
+      say yea, All opposed will please say nay.
+    character: {fileID: 11400000, guid: 0829268a21adbf44abb6a024b186905b, type: 2}
+    iconIndex: 0
+    italics: 1
+  - text: In my opinion, the yeas have it.
+    character: {fileID: 11400000, guid: 0829268a21adbf44abb6a024b186905b, type: 2}
+    iconIndex: 0
+    italics: 1
+  background: {fileID: 21300000, guid: c8578087220fd8e4e943a7e3e11779e1, type: 3}
+  nextScene: {fileID: 0}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e16b6f87e1b2d94596bf41cc93b1301, type: 3}
+  m_Name: ThirdReadingAlternative (Governor General & Royal Assent)
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: "Acts as representative of the British monarchy in the Canadian government.
+      Provides Royal Assent, which symbolises the monarchy\u2019s approval of the
+      legislature and is the last step in the legislative process."
+    character: {fileID: 11400000, guid: 8139b77ffcc57b143916e913462aa9ea, type: 2}
+    iconIndex: 0
+    italics: 0
+  - text: ' Not as important as it is mostly tradition in modern times since the
+      monarchy has no real influence in politics anymore'
+    character: {fileID: 11400000, guid: 8139b77ffcc57b143916e913462aa9ea, type: 2}
+    iconIndex: 0
+    italics: 0
+  background: {fileID: 21300000, guid: c8578087220fd8e4e943a7e3e11779e1, type: 3}
+  nextScene: {fileID: 0}
